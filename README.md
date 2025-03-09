@@ -24,6 +24,11 @@ Change the threshold values accordingly.
 EYE_AR_THRESH = 0.3
 EYE_AR_CONSEC_FRAMES = 30
 YAWN_THRESH = 10	//change this according to the distance from the camera
+
+
+This code is tested for Windows.If using Linux or Raspberry Pi,we can use ESpeak module instead of Playsound.
+
+ESpeak doesn't seem to wrok on Windows for some reason,so I used Playsound module instead..
 ```
 
 ## Authors
