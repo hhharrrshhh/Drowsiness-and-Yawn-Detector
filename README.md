@@ -1,6 +1,4 @@
-# Drowsiness and Yawn detection with voice alert using Dlib
-
-Simple code in python to detect Drowsiness and Yawn and alert the user.
+# Drowsiness and Yawn detection with voice alerts.
 
 ## Dependencies
 
